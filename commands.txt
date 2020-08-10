@@ -1,0 +1,2 @@
+command=(D:)$$key=(f8)
+command=(cd github/commandpromptrunner)$$key=(f10)
